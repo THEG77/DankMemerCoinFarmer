@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/THEG77/DankMemerCoinFarmer.svg)](http://hits.dwyl.com/THEG77/DankMemerCoinFarmer)
+
+
 # Preview 
 ![Preview](https://i.ibb.co/X5K3pXM/DMCF.png)
 
