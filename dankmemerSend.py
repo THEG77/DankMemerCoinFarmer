@@ -1,4 +1,4 @@
-import discord, time, os
+import discord, time, os, random
 
 class MyClient(discord.Client):
 
@@ -8,16 +8,22 @@ class MyClient(discord.Client):
         while True:
             await channel.send("pls hunt")
             time.sleep(5)
-            await channel.send("pls search")
-            time.sleep(5)
+            #await channel.send("pls search")
+            #time.sleep(5)
             await channel.send("pls fish")
             time.sleep(9)
             await channel.send("pls beg")
             time.sleep(20)
-            await channel.send("pls search")
+            #await channel.send("pls search")
             time.sleep(5)
+            
             await channel.send("pls pm")
-            time.sleep(5)
+            time.sleep(1)
+            memeType = random.choice("f","r","i","c","k")
+            time.sleep(3)
+            await.channel.send(memeType)
+            time.sleep(2)
+            
             await channel.send("pls beg")
             time.sleep(5)
             await channel.send("pls dep all")
