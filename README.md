@@ -12,6 +12,7 @@ Installation - `pip install discord.py`
 7. PROFIT
 
 Best Features: No need to have discord open and You can use discord on the same account while this is running!
+
 Warning: Try not to run it for more than 12 hours and take atleast 6 hours of break or your account can possibly be BlackListed by the DankMemer Bot itself! (THERE IS STILL A CHANCE THAT YOUR ACCOUNT WILL GET BLACKLISTED! USE AT YOUR OWN RISK!)
 
 **CAN BE HOSTED ON A SERVER FOR 24/7 SUPPORT**
