@@ -1,3 +1,6 @@
+# Preview 
+![Preview](https://i.ibb.co/X5K3pXM/DMCF.png)
+
 # DankMemerCoinFarmer
 I developed this to farm coins for me using the Dank Memer Discord Bot currency feature. This is extremely efficient and farmed me around 100K+ coins in less than 12 hours
 
