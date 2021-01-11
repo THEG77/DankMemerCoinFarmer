@@ -14,7 +14,7 @@ class MyClient(discord.Client):
             message.content = message.content.replace('﻿','')
             if "god forbid" in message.content:
                 print("Interacted with a Dragon !")
-            if "god forbid" not in message.content:
+            if "EVENT TIME WOO!" in message.content:
                 print("Interacting with a Event !")
             if "christmas tree" in message.content:
                 time.sleep(1)
